@@ -67,7 +67,7 @@ namespace DayNightWeeklyTemperatureAverage
 <html lang=""en"">
 <head>
 <meta charset=""UTF-8"">
-<title>Temperature Average</title>
+<title>Temperature Average (v1.1)</title>
 <style>
 body { font-family: system-ui, Arial, sans-serif; margin: 2rem; max-width: 860px; }
 textarea { width: 100%; height: 160px; font-family: Consolas, monospace; font-size: 0.9rem; }
