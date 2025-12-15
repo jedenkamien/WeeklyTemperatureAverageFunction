@@ -77,7 +77,7 @@ code { background:#eee; padding:0.15rem 0.3rem; }
 </style>
 </head>
 <body>
-<h1>Day / Night Temperature Averages</h1>
+<h1>Day / Night Temperature Averages (v1.2)</h1>
 <p>Paste forecast lines (e.g. <code>25°/14°</code>)—one or multiple lines or inline segments. Any occurrence of the pattern <code>number°/number°</code> (also accepts º) will be included.</p>
 <form id=""tempForm"" method=""post"">
     <label for=""input"">Input:</label><br>
