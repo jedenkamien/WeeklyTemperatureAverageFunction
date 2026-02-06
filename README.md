@@ -7,4 +7,4 @@
 
 ------------------------------------------------------------------------------
 
-<img width="1511" height="683" alt="Zrzut ekranu 2026-02-06 165804" src="https://github.com/user-attachments/assets/b501e8ae-c112-403a-abd3-5d0d89acd156" />
+<img width="756" height="342" alt="Zrzut ekranu 2026-02-06 165804" src="https://github.com/user-attachments/assets/b501e8ae-c112-403a-abd3-5d0d89acd156" />
