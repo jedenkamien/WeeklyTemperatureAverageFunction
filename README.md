@@ -5,4 +5,6 @@
 - [x] Has been developed with use of GitHub CoPilot.
 - [ ] Disclaimer: This app has been deliberately designed for its scoped functionality and it has not been designed with best coding practices.
 
+------------------------------------------------------------------------------
+
 <img width="1511" height="683" alt="Zrzut ekranu 2026-02-06 165804" src="https://github.com/user-attachments/assets/b501e8ae-c112-403a-abd3-5d0d89acd156" />
