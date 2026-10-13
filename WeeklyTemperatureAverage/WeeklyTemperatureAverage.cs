@@ -9,7 +9,22 @@ namespace DayNightWeeklyTemperatureAverage
 {
     public class TemperatureFunction
     {
-        private static readonly Regex TempPattern = new(@"(\d+)[°º]/(\d+)[°º]", RegexOptions.Compiled);
+        
+
+
+/*DISCLAIMER: This app has been deliberately designed for its scoped functionality and it has not been designed with best coding practices.
+
+For an example of a well architectured solution, please head to the Event-Driven-Route-Publishing-Architecture repository.*/
+
+
+
+
+
+
+
+
+
+private static readonly Regex TempPattern = new(@"(\d+)[°º]/(\d+)[°º]", RegexOptions.Compiled);
 
         [Function("TemperatureAverage")]
         public async Task<HttpResponseData> Run(
